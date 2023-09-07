@@ -61,12 +61,9 @@ h1{
 .centrado{
     text-align: center;
     padding: 2cm 0;
-}
-
-.mascentro{
-    padding: 1%;
     border: double;
 }
+
 
 .ingredientes{
 display: grid;
@@ -88,7 +85,7 @@ padding: 2px;
 
    
 
-.Full{
+.full{
     text-align: center;
     padding: 2%;
     border: solid;
